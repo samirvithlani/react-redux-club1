@@ -1,0 +1,24 @@
+Heroku
+ react build pack
+https://github.com/mars/create-react-app-buildpack
+
+firebase
+
+install firebase-tools -g
+create firebase project
+https://console.firebase.google.com/u/0/
+
+creaet build
+npm run build
+
+firebase init
+select hosting
+
+firbase use (projectid)
+
+
+
+firbase deploy
+
+
+
